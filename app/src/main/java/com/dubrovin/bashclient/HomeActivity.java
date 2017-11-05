@@ -8,7 +8,7 @@ import android.support.v7.app.AppCompatActivity;
  * Created by dubrovin on 03.11.17.
  */
 
-public class MainActivity extends AppCompatActivity {
+public class HomeActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
