@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BashClient.iml" filepath="$PROJECT_DIR$/BashClient.iml" />
+      <module fileurl="file://D:\Projects\Android\BashClient\BashClient.iml" filepath="D:\Projects\Android\BashClient\BashClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Projects\Android\BashClient\app\app.iml" filepath="D:\Projects\Android\BashClient\app\app.iml" />
     </modules>
   </component>
 </project>
